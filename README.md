@@ -16,5 +16,8 @@ El alumno creará un archivo README.md completo y profesional para un proyecto f
 4. Subir el archivo a GitHub.
    
  Entregables
-Enlace al repositorio que contiene el README.md.
+* Enlace al repositorio que contiene el README.md.
+* Captura de pantalla
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bff9bbcc-ff5f-47f3-b03f-444bbb60ebdc" />
 
